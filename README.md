@@ -1,1 +1,1 @@
-welcome to the repository of my webOS
+welcome to the repository of TerraOS made by Yash
